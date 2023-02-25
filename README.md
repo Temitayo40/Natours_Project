@@ -2,7 +2,9 @@
 Natours Project is a responsive webpage built with the purpose of showcasing Advance CSS Features with nice Animations using HTML &amp; SASS.
 
 
-![alt text](https://github.com/Temitayo40/Bankist-App/blob/master/img/snap-shot2.png)
+![alt text](https://github.com/Temitayo40/Natours_Project/blob/master/img/natours_proj_snap2.png)
+
+![alt text](https://github.com/Temitayo40/Natours_Project/blob/master/img/natours_proj_snap1.png)
 
 # Built with
 
