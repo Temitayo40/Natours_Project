@@ -10,7 +10,7 @@ Natours Project is a responsive webpage built with the purpose of showcasing Adv
 
 <ul>
 <li>HTML</li>
-<li>SASS</li>
+<li>SCSS</li>
 </ul>
 
 # Live Demo
